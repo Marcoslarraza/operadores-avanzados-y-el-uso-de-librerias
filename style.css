@@ -1,0 +1,26 @@
+
+.cuadro{
+    text-decoration:none;
+    font-weight:600;
+    font-size:20px;
+    color:#ffffff;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:40px;
+    padding-right:40px;
+    background-color:#005BBB;
+}
+
+
+.but{
+    font-weight: 60px;
+    font-size: 20px;
+    color: aqua;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.swal-overlay {
+    background-color: rgba(43, 165, 137, 0.45);
+}
